@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+    <title>家居装修站</title>
+    <link>https://zhuangxiu.github.io/</link>
+    <description>专注装修攻略、家装设计等内容的专业分享平台</description>
+    <language>zh-CN</language>
+    <item>
+      <title><![CDATA[装修预算避坑指南：新手最常犯的8个错误]]></title>
+      <link>https://zhuangxiu.github.io/articles/装修预算避坑指南新手最常犯的8个错误.html</link>
+      <description><![CDATA[还在为装修预算发愁？这篇文章汇总了最新最全的装修预算攻略，涵盖装修攻略、家装设计等核心内容，看完就能用。]]></description>
+      <pubDate>2026-05-23T08:00:00+08:00</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[用了3年的家装设计经验分享，全是干货]]></title>
+      <link>https://zhuangxiu.github.io/articles/用了3年的家装设计经验分享全是干货.html</link>
+      <description><![CDATA[本文系统整理了家装设计的完整方案，包含避坑提醒、省钱技巧和实操步骤。适合想快速上手家装设计的朋友参考。]]></description>
+      <pubDate>2026-05-13T08:00:00+08:00</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[用了3年的收纳技巧经验分享，全是干货]]></title>
+      <link>https://zhuangxiu.github.io/articles/用了3年的收纳技巧经验分享全是干货.html</link>
+      <description><![CDATA[本文系统整理了收纳技巧的完整方案，包含避坑提醒、省钱技巧和实操步骤。适合想快速上手收纳技巧的朋友参考。]]></description>
+      <pubDate>2026-05-05T08:00:00+08:00</pubDate>
+    </item>
+</channel>
+</rss>
